@@ -1,0 +1,13 @@
+
+.background{
+  background-color: rgb(33, 32, 32);
+
+}
+
+.add_btn{
+  margin-left: 10px;
+  width: 100%;
+}
+.row_todoitem{
+    margin: 10px 6px;
+}
